@@ -28,7 +28,9 @@ Jika ditolak, aplikasi akan menampilkan dialog penjelasan edukatif yang mengarah
 Inti dari aplikasi di mana pengguna menjawab berbagai pertanyaan seputar teknologi jaringan.
 ## Fitur Utama:
 Timer: Memberikan batas waktu menjawab untuk meningkatkan tantangan.
+
 Pilihan Ganda: Empat opsi jawaban (A, B, C, D) yang interaktif.
+
 Feedback Instan: Tombol akan berubah warna (Hijau jika benar, Merah jika salah) setelah tombol "JAWAB" ditekan.
 # 6. Skor Akhir & Analisis AI
 Halaman hasil yang merangkum performa pengguna selama kuis.
