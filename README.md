@@ -40,9 +40,12 @@ Feedback AI: Integrasi dengan OpenAI API untuk memberikan analisis cerdas, motiv
 ## Opsi Navigasi: * Coba Lagi: Mengulang kuis dari awal untuk memperbaiki skor.
 ## Kembali ke Menu: Keluar dari sesi kuis menuju halaman utama.
 # Teknologi yang Digunakan:
-Bahasa: Java (Android Studio)
-API: OpenAI API (GPT-3.5 Turbo) untuk feedback kuis.
-Permissions: Android Location Services.
-Layout: XML dengan ConstraintLayout untuk responsivitas antar layar.
+1. Bahasa: Java (Android Studio)
+
+2. API: OpenAI API (GPT-3.5 Turbo) untuk feedback kuis.
+
+3. Permissions: Android Location Services.
+
+4. Layout: XML dengan ConstraintLayout untuk responsivitas antar layar.
 
 LInk ClickUpp : https://app.clickup.com/90181770669/v/b/4-90187071231-2
