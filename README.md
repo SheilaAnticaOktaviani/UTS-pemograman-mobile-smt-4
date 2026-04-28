@@ -42,3 +42,5 @@ Bahasa: Java (Android Studio)
 API: OpenAI API (GPT-3.5 Turbo) untuk feedback kuis.
 Permissions: Android Location Services.
 Layout: XML dengan ConstraintLayout untuk responsivitas antar layar.
+
+LInk ClickUpp : https://app.clickup.com/90181770669/v/b/4-90187071231-2
